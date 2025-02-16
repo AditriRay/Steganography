@@ -1,6 +1,10 @@
 # Steganography
  Secure Data Hiding in Images Using Steganography.
 
+Service URL: 
+
+https://steg-aditri-ibmskillsbuild-999019699834.asia-south1.run.app
+
 
 
 📜 Problem Statement:
@@ -18,6 +22,11 @@ Backend: Python (Flask)
 Libraries: PIL (Pillow), NumPy
 
 Storage: Local File System
+
+Docker – Containerized deployment for consistency across environments.
+
+Google Cloud Run – Serverless hosting for scalability and accessibility.
+
 
 ✨ Wow Factor:
 
