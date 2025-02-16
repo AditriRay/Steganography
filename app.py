@@ -56,4 +56,5 @@ def decode_route():
         return "Error: No valid message found!", 400
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    # Make sure the app listens on 0.0.0.0:8080
+    app.run(host='0.0.0.0', port=8080)
