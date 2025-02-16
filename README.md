@@ -1,4 +1,6 @@
 ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://AditriRaySteganography&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+![Profile views](https://komarev.com/ghpvc/?username=AditriRay&color=blue)
+![GitHub Repo forks](https://img.shields.io/github/forks/AditriRay/Steganography?style=social)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AditriRay&layout=compact&theme=tokyonight)
 
