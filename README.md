@@ -14,12 +14,12 @@ https://steg-aditri-ibmskillsbuild-999019699834.asia-south1.run.app
 
 
 
-📜 Problem Statement:
+# 📜 Problem Statement:
 
 This project focuses on embedding secret messages into images using steganography techniques. The goal is to provide a secure way to hide information inside images while maintaining their visual integrity.
 
 
-💻 Technology Used:
+# 💻 Technology Used:
 
 
 Frontend: HTML, CSS, JavaScript
@@ -35,7 +35,7 @@ Docker – Containerized deployment for consistency across environments.
 Google Cloud Run – Serverless hosting for scalability and accessibility.
 
 
-✨ Wow Factor:
+# ✨ Wow Factor:
 
 
 🔒 Password Protection: Only authorized users can extract hidden messages.
@@ -46,7 +46,7 @@ Google Cloud Run – Serverless hosting for scalability and accessibility.
 
 ⚡ Smooth Animations: Engaging UI interactions.
 
-👤 End Users:
+# 👤 End Users:
 
 
 Cybersecurity professionals
@@ -57,13 +57,13 @@ Forensic analysts
 
 People who want to share secret data securely
 
-📊 Result:
+# 📊 Result:
 
 The project successfully hides text messages inside images and retrieves them securely with a password. 
 
 The user-friendly web interface makes the encoding and decoding process seamless.
 
-🚀 Future Scope:
+# 🚀 Future Scope:
 
 
 This project can be transformed into a mystery puzzle game where users:
