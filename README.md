@@ -8,10 +8,6 @@
 # Steganography
  Secure Data Hiding in Images Using Steganography.
 
-Service URL: 
-
-https://steg-aditri-ibmskillsbuild-999019699834.asia-south1.run.app
-
 
 
 # 📜 Problem Statement:
